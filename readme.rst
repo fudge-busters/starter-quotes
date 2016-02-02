@@ -1,3 +1,21 @@
+if (condition)
+{
+  //stuff
+}
+else if (condition2)
+{
+  //other stuff
+}
+else
+{
+  //last stuff
+}
+
+Allman - Aman convention!
+
+Tyler Trepanier - Repo Owner
+Gabriella Cheung - Team member
+
 #######################
 Starter Webapp - Quotes
 #######################
