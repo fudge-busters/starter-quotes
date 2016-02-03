@@ -1,18 +1,30 @@
-**********************
-Repo Coding Convention
-**********************
+******************
+CODING CONVENTIONS
+******************
+pancakes.
+
 
 if (condition)
+
 {
+
   //stuff
+
 }
 else if (condition2)
+
 {
+
   //other stuff
+
 }
+
 else
+
 {
+
   //last stuff
+
 }
 
 Allman - Aman convention!
