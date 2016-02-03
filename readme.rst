@@ -1,6 +1,8 @@
 ******************
 CODING CONVENTIONS
 ******************
+pancakes.
+
 
 if (condition)
 
@@ -28,6 +30,7 @@ else
 Allman - Aman convention!
 
 Tyler Trepanier - Repo Owner
+
 Gabriella Cheung - Team member
 
 #######################
