@@ -1,3 +1,7 @@
+**********************
+Repo Coding Convention
+**********************
+
 if (condition)
 {
   //stuff
@@ -14,6 +18,7 @@ else
 Allman - Aman convention!
 
 Tyler Trepanier - Repo Owner
+
 Gabriella Cheung - Team member
 
 #######################
