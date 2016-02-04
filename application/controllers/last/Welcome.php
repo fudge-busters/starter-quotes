@@ -11,7 +11,7 @@
  *
  * @author Gabriella
  */
-class First extends Application {
+class Welcome extends Application {
     //put your code here
     
     function __construct()
@@ -23,7 +23,7 @@ class First extends Application {
 	{
 		$this->data['pagebody'] = 'justone';	// this is the view we want shown
 		
-		$record = $this->quotes->first();
+		$record = $this->quotes->last();
                 $this->data = array_merge($this->data, $record);
 
 		$this->render();
