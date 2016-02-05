@@ -38,4 +38,14 @@ class First extends Application {
 
 		$this->render();
 	}
+        
+        function gimme($number)
+        {
+            $this->data['pagebody'] = 'justone';	// this is the view we want shown
+		
+	    $record = $this->quotes->get($number);
+            $this->data = array_merge($this->data, $record);
+            
+            $this->render();
+        }
 }
