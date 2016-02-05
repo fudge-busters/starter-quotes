@@ -1,7 +1,7 @@
 Date and time               what happened.
 
 Feb. 5th, 2016 [11:37am]    Fixed the "dunno" link.
-Feb. 4th, 2016 [2:53pm]     Fixed the "last" link.
+Feb. 5th, 2016 [10:52am]    Fix show link
 Feb. 4th, 2106 [4:52pm]     Fixed the shucks link with wildcard routing
 Feb. 4th, 2016 [4:27pm]     Fix sleep link.
 Feb. 4th, 2016 [3:09pm]     Fixed the "last" link
