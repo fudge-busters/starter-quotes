@@ -1,5 +1,8 @@
 Date and time               what happened.
 
 Feb. 4th, 2016 [2:53pm]     Fixed the "last" link.
+Feb. 4th, 2106 [4:52pm]     Fixed the shucks link with wildcard routing
+Feb. 4th, 2016 [4:27pm]     Fix sleep link.
+Feb. 4th, 2016 [3:09pm]     Fixed the "last" link
 Feb. 2nd, 2016 [5:23pm]     Fix first link.
 Feb. 2nd, 2016 [3:51pm]     Initial forking of starter-quotes.
