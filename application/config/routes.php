@@ -58,6 +58,7 @@ $route['dunno'] = function()
 };
 
 $route['comp(\d+)/([a-z]+)'] = "wise/bingo";
+$route['[A-z]{4}/bingo'] = "bingo/index";
 
 
 
